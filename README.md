@@ -1,6 +1,6 @@
 <h1 align="center">
     <div id="header" align="center">
-        <img src="https://avatars.githubusercontent.com/u/74034273?v=4" alt="Nicolas D. Kamado" width="200" height="200">
+        <img src="assets/nick_pfp.png" alt="Nicolas D. Kamado" width="200" height="200">
     </div>
     <div id="badges">
         <a href="https://twitter.com/1NickOman1">
