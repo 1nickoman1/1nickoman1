@@ -26,7 +26,7 @@
     </div>
     <div align="center">
     <img src="assets/nick_banner.png" width="40%" height="40%">
-    ---
-    ### :woman_technologist: About Me :
     </div>
 <h1>
+    ---
+    ### :woman_technologist: About Me :
