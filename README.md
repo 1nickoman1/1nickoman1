@@ -18,7 +18,7 @@
     </div>
     <div>
         <a>
-            <img src="https://komarev.com/ghpvc/?username=1nickoman1&style=flat-square&color=830A80&label=PROFILE+VIEWS">
+            <img src="https://komarev.com/ghpvc/?username=1nickoman1&style=for-the-badge&color=830A80&label=PROFILE+VIEWS">
         <a>
     </div>
 
