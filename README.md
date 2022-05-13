@@ -22,10 +22,11 @@
         <a>
     </div>
     <div>
-        <h2>Wassup Gamers!</h2>
+        <h3>Wassup Gamers!</h3>
     </div>
-    ---
     <div align="center">
-    <img src"assets/nick_banner.png" width="40%" height="40%">
+    <img src="assets/nick_banner.png" width="40%" height="40%">
+    ---
+    ### :woman_technologist: About Me :
     </div>
 <h1>
