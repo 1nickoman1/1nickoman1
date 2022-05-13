@@ -2,7 +2,7 @@
 <div id="header" align="center">
     <img src="assets/nick_icon.png" alt="Nicolas D. Kamado" width="200" height="200">
 </div>
-<div id="badges">
+<div id="badges" align="center">
     <a href="https://twitter.com/1NickOman1">
         <img src="https://img.shields.io/twitch/status/1nickoman1?color=purple&label=twitch&logo=twitch&logoColor=purple&style=for-the-badge" alt="Twitch Badge"/>
     </a>
@@ -16,12 +16,12 @@
         <img src="https://img.shields.io/discord/919377871632482334?color=%237289da%20&label=discord&logo=discord&logoColor=%237289da%20&style=for-the-badge" alt="Discord Badge"/>
     </a>
 </div>
-<div>
+<div align="center">
     <a>
         <img src="https://komarev.com/ghpvc/?username=1nickoman1&style=for-the-badge&color=830A80&label=PROFILE+VIEWS">
     <a>
 </div>
-<div>
+<div align="center">
     <h3>Wassup Gamers!</h3>
 </div>
 <p align="center">
