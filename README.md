@@ -21,5 +21,11 @@
             <img src="https://komarev.com/ghpvc/?username=1nickoman1&style=for-the-badge&color=830A80&label=PROFILE+VIEWS">
         <a>
     </div>
-
+    <div>
+        <h1>Wassup Gamers!</h1>
+    </div>
+    ---
+    <div align="center">
+    <img src"assets/nick_banner.png" width="1920" height="1080">
+    </div>
 <h1>
