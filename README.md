@@ -1,9 +1,34 @@
-
 <h1 align="center">
-    <b>1NickOman1</b>
     <div id="header" align="center">
         <img src="https://avatars.githubusercontent.com/u/74034273?v=4" alt="Nicolas D. Kamado" width="100" height="100">
     </div>
+    <div id="badges">
+        <img src="https://img.shields.io/twitch/status/1nickoman1?color=purple&label=twitch&logo=twitch&logoColor=purple&style=for-the-badge" alt="Twitch Badge"/>
+        <img src="https://img.shields.io/youtube/channel/subscribers/UCo7OfF6_pCAutcq0848uUng?color=red&label=YouTube&logo=YouTube&logoColor=red&style=for-the-badge" alt="Youtube Badge"/>
+        <img src="https://img.shields.io/twitter/follow/1nickoman1?color=blue&label=twitter&logo=twitter&logoColor=blue&style=for-the-badge" alt="Twitter Badge"/>
+        <img src="https://img.shields.io/discord/919377871632482334?color=%237289da%20&label=discord&logo=discord&logoColor=%237289da%20&style=for-the-badge" alt="Discord Badge">
+    </div>
+    <div id="badges">
+        <a href="https://twitter.com/1NickOman1">
+            <img src="https://img.shields.io/twitch/status/1nickoman1?color=purple&label=twitch&logo=twitch&logoColor=purple&style=for-the-badge" alt="Twitch Badge"/>
+        </a>
+        <a href="https://www.youtube.com/channel/UCo7OfF6_pCAutcq0848uUng">
+            <img src="https://img.shields.io/youtube/channel/subscribers/UCo7OfF6_pCAutcq0848uUng?color=red&label=YouTube&logo=YouTube&logoColor=red&style=for-the-badge" alt="Youtube Badge"/>
+        </a>
+        <a href="https://www.twitch.tv/1nickoman1">
+            <img src="https://img.shields.io/twitter/follow/1nickoman1?color=blue&label=twitter&logo=twitter&logoColor=blue&style=for-the-badge" alt="Twitter Badge"/>
+        </a>
+        <a href="https://discord.com/invite/E7FMauxtFG">
+            <img src="https://img.shields.io/discord/919377871632482334?color=%237289da%20&label=discord&logo=discord&logoColor=%237289da%20&style=for-the-badge" alt="Discord Badge"/>
+        </a>
+        <a href="">
+            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Github Team"/>
+        </a>
+    </div>
+    <div>
+        <a>
+            <img src="https://komarev.com/ghpvc/?username=1nickoman1&style=flat-square&color=830A80">
+        <a>
+    </div>
+
 <h1>
-
-
