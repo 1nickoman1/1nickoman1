@@ -22,10 +22,10 @@
         <a>
     </div>
     <div>
-        <h1>Wassup Gamers!</h1>
+        <h2>Wassup Gamers!</h2>
     </div>
     ---
     <div align="center">
-    <img src"assets/nick_banner.png" width="1920" height="1080">
+    <img src"assets/nick_banner.png" width="40%" height="40%">
     </div>
 <h1>
