@@ -25,8 +25,8 @@
         <h3>Wassup Gamers!</h3>
     </div>
     <div align="center">
-    <img src="assets/nick_banner.png" width="40%" height="40%">
+    <img src="assets/nick_banner.png" width="60%" height="60%">
     </div>
 <h1>
-    ---
-    ### :woman_technologist: About Me :
+---
+### :woman_technologist: About Me :
