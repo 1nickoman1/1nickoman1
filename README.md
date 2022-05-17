@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
     <img src="assets/nickoman_icon.png" alt="Nicolas D. Kamado" width="200" height="200">
 </div>
@@ -24,13 +23,13 @@
 <div align="center">
     <h3><img src="https://readme-typing-svg.herokuapp.com?color=F71FD9&lines=Wassup+Gamers;Im+a+YouTuber;Im++a+Twitch+Streamer;Im+a+Programmer;Im+a+Film+Maker"></h3>
 </div>
-<p align="center">
-<img src="assets/bitchboy1" width="80%" height="70%">
-</p>
-<h3> :man_technologist: About Me : <h3>
-
-
-
-
+<div>
+    <p align="center">
+        <a href="https://floatling.carrd.co/" alt="Nick's Artist">
+            <img src="assets/bitchboy1" width="80%" height="70%">
+        </a>
+    </p>
+    <h3> :man_technologist: About Me : <h3>
+</div>
 
 <!-- BLOG-POST-LIST:END -->
