@@ -18,7 +18,7 @@
 <div align="center">
     <a>
         <img src="https://komarev.com/ghpvc/?username=1nickoman1&style=for-the-badge&color=830A80&label=PROFILE+VIEWS">
-    <a>
+    </a>
 </div>
 <div align="center">
     <h3><img src="https://readme-typing-svg.herokuapp.com?color=F71FD9&lines=Wassup+Gamers;Im+a+YouTuber;Im++a+Twitch+Streamer;Im+a+Programmer;Im+a+Film+Maker"></h3>
