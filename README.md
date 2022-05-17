@@ -22,10 +22,13 @@
     <a>
 </div>
 <div align="center">
-    <h3>Wassup Gamers!</h3>
+    <h3>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71FD9&lines=Wassup+Gamers;Im+a+YouTuber;Im++a+Twitch+Streamer;Im+a+Programmer;Im+a+Film+Maker)](https://git.io/typing-svg)</h3>
 </div>
 <p align="center">
 <img src="assets/nick_banner.png" width="70%" height="70%">
 </p>
 ---
-### :men_technologist: About Me :
+### :man_technologist: &nbsp;About Me :
+
+
+<!-- BLOG-POST-LIST:END -->
