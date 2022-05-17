@@ -26,7 +26,7 @@
 <div>
     <p align="center">
         <a href="https://floatling.carrd.co/" alt="Nick's Artist">
-            <img src="assets/bitchboy1" width="80%" height="70%">
+            <img src="assets/bitchboy1.png" width="80%" height="70%">
         </a>
     </p>
     <h3> :man_technologist: About Me : <h3>
