@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-    <img src="assets/nick_icon.png" alt="Nicolas D. Kamado" width="200" height="200">
+    <img src="assets/nickoman_icon.png" alt="Nicolas D. Kamado" width="200" height="200">
 </div>
 <div id="badges" align="center">
     <a href="https://twitter.com/1NickOman1">
@@ -22,12 +22,15 @@
     <a>
 </div>
 <div align="center">
-    <h3><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71FD9&lines=Wassup+Gamers;Im+a+YouTuber;Im++a+Twitch+Streamer;Im+a+Programmer;Im+a+Film+Maker)](https://git.io/typing-svg)"></h3>
+    <h3><img src="https://readme-typing-svg.herokuapp.com?color=F71FD9&lines=Wassup+Gamers;Im+a+YouTuber;Im++a+Twitch+Streamer;Im+a+Programmer;Im+a+Film+Maker"></h3>
 </div>
 <p align="center">
-<img src="assets/nick_banner.png" width="70%" height="70%">
+<img src="assets/nickoman_banner.png" width="70%" height="70%">
 </p>
 <h3> :man_technologist: About Me : <h3>
+
+
+
 
 
 <!-- BLOG-POST-LIST:END -->
