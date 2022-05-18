@@ -55,9 +55,9 @@
         <a href="https://github.com/NickOman-Corps/NickOman-Datapack"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=1nickoman1&repo=NickOman-Corps/Datapack" alt="NickoMane-Datapack ">
         </a>
     </p>
-    <h3> 🛠️ My favorite tools :  </h3>
+    <h2> 🛠️ My favorite tools :  </h2>
         <p>
-            <h4> 👨‍💻 Programs and languages I used (Or going to learn how to use) : </h4>
+            <h3> 👨‍💻 Programs and languages I used (Or going to learn how to use) : </h3>
                 <p>
                     <a href=""><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
                     <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge"></a>
@@ -72,7 +72,7 @@
                     <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
                     <a href=""><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
                 </p>
-            <h4> 🗄️ Databases and cloud hosting I used (Or going to learn how to use) : </h4>
+            <h3> 🗄️ Databases and cloud hosting I used (Or going to learn how to use) : </h3>
                 <p>
                     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
                     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -80,7 +80,7 @@
                     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
                     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
                 </p>
-            <h4> 💻 Software and tools I used (Or going to learn how to use) : </h4>
+            <h3> 💻 Software and tools I used (Or going to learn how to use) : </h3>
             <p>
                 <a href="#"><img alt="Adobe Programs" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
                 <p>
