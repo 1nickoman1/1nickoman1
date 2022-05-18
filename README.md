@@ -36,7 +36,7 @@
             <img src="assets/bitchboy1.png" width="80%" height="70%">
         </a>
     </p>
-    <h2> :man_technologist: About Me : <h3>
+    <h2> :man_technologist: About Me : <h2>
         <p>
         - I am Nick aka Aaron or Nicolas! Im highschool student who is learning alot of things all at once! My pronouns are He/They.
         - I will be posting some of my programs I learned in path of becoming a Content Creator and Programmer.
@@ -44,7 +44,7 @@
         - As you see idk how to make this about me very welll!
         - Well here is my socials <img src="https://img.shields.io/badge/-1nickoman1's%20Cards-red?style=for-the-badge&link=https://1nickoman1.carrd.co/&link=https://1nickoman1.carrd.co/"><a href="https://img.shields.io/badge/-1nickoman1's%20Cards-red?style=for-the-badge&link=https://1nickoman1.carrd.co/&link=https://1nickoman1.carrd.co/"></a>
         </p>
-    <h3> 📘 Open source projects : </h3>
+    <h2> 📘 Open source projects : </h2>
     <p align="center">
         <a href="https://github.com/NickOman-Corps/NickOman-Ess"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=1nickoman1&repo=NickOman-Corps/NickOman-Ess" alt="NickoMane-Ess">
         </a>
@@ -57,7 +57,7 @@
     </p>
     <h3> 🛠️ My favorite tools :  </h3>
         <p>
-            <h2> 👨‍💻 Programs and languages I used (Or going to learn how to use) : </h2>
+            <h4> 👨‍💻 Programs and languages I used (Or going to learn how to use) : </h4>
                 <p>
                     <a href=""><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
                     <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge"></a>
@@ -72,7 +72,7 @@
                     <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
                     <a href=""><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
                 </p>
-            <h2> 🗄️ Databases and cloud hosting I used (Or going to learn how to use) : </h2>
+            <h4> 🗄️ Databases and cloud hosting I used (Or going to learn how to use) : </h4>
                 <p>
                     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
                     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -80,7 +80,7 @@
                     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
                     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
                 </p>
-            <h2> 💻 Software and tools I used (Or going to learn how to use) : </h2>
+            <h4> 💻 Software and tools I used (Or going to learn how to use) : </h4>
             <p>
                 <a href="#"><img alt="Adobe Programs" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
                 <p>
@@ -110,13 +110,13 @@
                 <a href="#"><img alt="BlockBranch" src=""></a>
             </p>
         </p>
-    <h3> 📺 Latest YouTube videos </h3>
+    <h2> 📺 Latest YouTube videos </h2>
     <!-- Feed workflow  -->
     <!-- YouTube Cards -->
     <!-- YOUTUBE:START -->
         <p>
         </p>
-    <h3> 💻 GitHub Profile Stats </h3>
+    <h2> 💻 GitHub Profile Stats </h2>
         <p>
             <details> 
                 <summary>💻 GitHub Profile Stats</summary>
@@ -137,9 +137,11 @@
                 <summary>⚡ Recent GitHub Activity</summary>
                     <br/>
                     <!--START_SECTION:activity-->
-                    1. ❗️Setting up environments for [minecraft plugin](https://github.com/NickOman-Corps/NickOman-Ess) in [NickOman Corps](https://github.com/NickOman-Corps) project.
-                    2. ❗️Setting up environments for [minecraft forge mod](https://github.com/NickOman-Corps/NickOman-BlockieForgeMod) in [NickOman Corps](https://github.com/NickOman-Corps) project.
-                    3. ❗️Setting up environments for [minecraft datapack](https://github.com/NickOman-Corps/NickOman-Datapack) in [NickOman Corps](https://github.com/NickOman-Corps) project.
+                     <ol>
+                        <li>❗️Setting up environments for [minecraft plugin](https://github.com/NickOman-Corps/NickOman-Ess) in [NickOman Corps](https://github.com/NickOman-Corps) project.</li>
+                        <li>❗️Setting up environments for [minecraft forge mod](https://github.com/NickOman-Corps/NickOman-BlockieForgeMod) in [NickOman Corps](https://github.com/NickOman-Corps) project.</li>
+                        <li>❗️Setting up environments for [minecraft datapack](https://github.com/NickOman-Corps/NickOman-Datapack) in [NickOman Corps](https://github.com/NickOman-Corps) project.</li>
+                    </ol>  
                     <!--END_SECTION:activity-->
             </details>
         <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
