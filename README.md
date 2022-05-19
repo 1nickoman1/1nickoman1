@@ -37,13 +37,13 @@
         </a>
     </p>
     <h2> :man_technologist: About Me : <h2>
-        <p>
-        - I am Nick aka Aaron or Nicolas! Im highschool student who is learning alot of things all at once! My pronouns are He/They.
-        - I will be posting some of my programs I learned in path of becoming a Content Creator and Programmer.
-        - In my freetime play minecraft alot and learn how to changing things in minecraft with mods, plugins, datapacks, resourcepacks.
-        - As you see idk how to make this about me very welll!
-        - Well here is my socials <img src="https://img.shields.io/badge/-1nickoman1's%20Cards-red?style=for-the-badge&link=https://1nickoman1.carrd.co/&link=https://1nickoman1.carrd.co/"><a href="https://img.shields.io/badge/-1nickoman1's%20Cards-red?style=for-the-badge&link=https://1nickoman1.carrd.co/&link=https://1nickoman1.carrd.co/"></a>
-        </p>
+        <ul>
+            <li>I am Nick aka Aaron or Nicolas! Im highschool student who is learning alot of things all at once! My pronouns are He/They.</li>
+            <li>I will be posting some of my programs I learned in path of becoming a Content Creator and Programmer.</li>
+            <li>In my freetime play minecraft alot and learn how to changing things in minecraft with mods, plugins, datapacks, resourcepacks.</li>
+            <li>As you see idk how to make this about me very welll!</li>
+            <li>Well here is my socials <img src="https://img.shields.io/badge/-1nickoman1's%20Cards-red?style=for-the-badge&link=https://1nickoman1.carrd.co/&link=https://1nickoman1.carrd.co/"><a href="https://img.shields.io/badge/-1nickoman1's%20Cards-red?style=for-the-badge&link=https://1nickoman1.carrd.co/&link=https://1nickoman1.carrd.co/"></a></li>
+        </ul>
     <h2> 📘 Open source projects : </h2>
     <p align="center">
         <a href="https://github.com/NickOman-Corps/NickOman-Ess"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=1nickoman1&repo=NickOman-Corps/NickOman-Ess" alt="NickoMane-Ess">
