@@ -88,7 +88,7 @@
                     <a><img alt="Adobe Animate" src="https://custom-icon-badges.herokuapp.com/badge/-Adobe Animate-00005B?logo=adobe-animate-logo1&logoColor=white&style=for-the-badge"></a>
                     <a><img alt="Adobe Audition" src="https://img.shields.io/badge/-Adobe%20Audition-%239999FF?logo=adobeaudition&logoColor=white&style=for-the-badge"></a>
                     <a><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe%20Premiere%20Pro-%239999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge"></a>
-                    <a><img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Audition-%2331A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge"></a>
+                    <a><img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-%2331A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge"></a>
                     <a><img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-%23FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge"></a>
                 </p>
                 <a><img alt="Google Programs" src="https://img.shields.io/badge/-google Programs-4285F4?logo=google&logoColor=white&style=for-the-badge"></a>
