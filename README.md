@@ -46,13 +46,13 @@
         </ul>
     <h2> 📘 Open source projects : </h2>
     <p align="center">
-        <a href="https://github.com/NickOman-Corps/NickOman-Ess"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=NickOman-Corps&repo=NickOman-Ess" alt="NickoMane-Ess">
+        <a href="https://github.com/NickOman-Corps/NickOman-Ess"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NickOman-Corps&repo=NickOman-Ess" alt="NickoMane-Ess">
         </a>
-        <a href="https://github.com/NickOman-Corps/NickOman-BlockieForgeMod"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=NickOman-Corps&repo=NickOman-BlockieFabricMod" alt="NickoMane-BlockieFabricMod ">
+        <a href="https://github.com/NickOman-Corps/NickOman-BlockieForgeMod"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NickOman-Corps&repo=NickOman-BlockieFabricMod" alt="NickoMane-BlockieFabricMod ">
         </a>
-        <a href="https://github.com/NickOman-Corps/NickOman-"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=NickOman-Corps&repo=NickOman-BlockieForgeMod" alt="NickoMane-BlockieForgeMod ">
+        <a href="https://github.com/NickOman-Corps/NickOman-"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NickOman-Corps&repo=NickOman-BlockieForgeMod" alt="NickoMane-BlockieForgeMod ">
         </a>
-        <a href="https://github.com/NickOman-Corps/NickOman-Datapack"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=NickOman-Corps&repo=NickOman-Datapack" alt="NickoMane-Datapack ">
+        <a href="https://github.com/NickOman-Corps/NickOman-Datapack"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NickOman-Corps&repo=NickOman-Datapack" alt="NickoMane-Datapack ">
         </a>
     </p>
     <h2> 🛠️ My favorite tools :  </h2>
