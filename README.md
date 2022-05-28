@@ -38,7 +38,7 @@
     </p>
     <h2> :man_technologist: About Me : <h2>
         <ul>
-            <li>I am Nick aka Aaron or Nicolas! Im highschool student who is learning alot of things all at once! My pronouns are He/They.</li>
+            <li>I am Nick aka Aaron or Nicolas! Im highschool student who is learning alot of things all at once! My pronouns are He/him or He/They Doesnt matter to me!.</li>
             <li>I will be posting some of my programs I learned in path of becoming a Content Creator and Programmer.</li>
             <li>In my freetime play minecraft alot and learn how to changing things in minecraft with mods, plugins, datapacks, resourcepacks.</li>
             <li>As you see idk how to make this about me very welll!</li>
