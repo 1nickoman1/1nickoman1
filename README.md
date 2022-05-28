@@ -106,14 +106,6 @@
                 <a><img alt="Blender" src="https://img.shields.io/badge/-blender-F5792A?logo=blender&logoColor=white&style=for-the-badge"></a>
             </p>
         </p>
-    <h2> 📺 Latest YouTube videos </h2>
-    <!-- Feed workflow  -->
-    <!-- YouTube Cards -->
-    <!-- YOUTUBE:START -->
-        <p>
-            <a href="https://www.youtube.com/watch?v=TIden7Zby4w&t=30s&ab_channel=1nickoman1">
-            </a>
-        </p>
     <h2> 💻 GitHub Profile Stats </h2>
         <p>
             <details> 
