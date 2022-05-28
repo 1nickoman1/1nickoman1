@@ -91,11 +91,9 @@
                     <a><img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Audition-%2331A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge"></a>
                     <a><img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-%23FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge"></a>
                 </p>
-                <a><img alt="Google Programs" src=""></a>
+                <a><img alt="Google Programs" src="https://img.shields.io/badge/-google Programs-4285F4?logo=google&logoColor=white&style=for-the-badge"></a>
                 <p>
-                    <a><img alt="Google Docs" src=""></a>
-                    <a><img alt="Google Sheets" src=""></a>
-                    <a><img alt="Google Forums" src=""></a>
+                    <a><img alt="Google Sheets" src="https://img.shields.io/badge/-googlesheets-34A853?logo=googlesheets&logoColor=white&style=for-the-badge"></a>
                 </p>
                 <a><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white&style=for-the-badge"></a>
                 <a><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge"></a>
@@ -103,11 +101,9 @@
                 <a><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"></a>
                 <a><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a>
                 <a><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge"></a>
-                <a><img alt="Intellij Community" src=""></a>
-                <a><img alt="PyCharm Community" src=""></a>
-                <a><img alt="Blender" src=""></a>
-                <a><img alt="Paint.net" src=""></a>
-                <a><img alt="BlockBranch" src=""></a>
+                <a><img alt="Intellij Community" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA&logoColor=white&style=for-the-badge"></a>
+                <a><img alt="PyCharm Community" src="https://img.shields.io/badge/-pycharm-000000?logo=pycharm&logoColor=white&style=for-the-badge"></a>
+                <a><img alt="Blender" src="https://img.shields.io/badge/-blender-F5792A?logo=blender&logoColor=white&style=for-the-badge"></a>
             </p>
         </p>
     <h2> 📺 Latest YouTube videos </h2>
@@ -115,6 +111,8 @@
     <!-- YouTube Cards -->
     <!-- YOUTUBE:START -->
         <p>
+            <a href="https://www.youtube.com/watch?v=TIden7Zby4w&t=30s&ab_channel=1nickoman1">
+            </a>
         </p>
     <h2> 💻 GitHub Profile Stats </h2>
         <p>
