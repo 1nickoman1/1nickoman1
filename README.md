@@ -59,55 +59,55 @@
         <p>
             <h3> 👨‍💻 Programs and languages I used (Or going to learn how to use) : </h3>
                 <p>
-                    <a href=""><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
-                    <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge"></a>
-                    <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
-                    <a href=""><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white&style=for-the-badge"></a>
-                    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
-                    <a href=""><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge"></a>
-                    <a href=""><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&style=for-the-badge"></a>
-                    <a href=""><img alt="Reactapp.js" src="https://custom-icon-badges.herokuapp.com/badge/?logo=react-app-logo&style=for-the-badge"></a>
-                    <a href=""><img alt="Discord.js" src="https://custom-icon-badges.herokuapp.com/badge/?logo=discord.js-logo&style=for-the-badge"></a>
-                    <a href=""><img alt="McFunction" src="https://custom-icon-badges.herokuapp.com/badge/?logo=minecraft-logo-17&style=for-the-badge"></a>
-                    <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-                    <a href=""><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+                    <a><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
+                    <a><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge"></a>
+                    <a><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
+                    <a><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white&style=for-the-badge"></a>
+                    <a><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
+                    <a><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge"></a>
+                    <a><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&style=for-the-badge"></a>
+                    <a><img alt="Reactapp.js" src="https://custom-icon-badges.herokuapp.com/badge/?logo=react-app-logo&style=for-the-badge"></a>
+                    <a><img alt="Discord.js" src="https://custom-icon-badges.herokuapp.com/badge/?logo=discord.js-logo&style=for-the-badge"></a>
+                    <a><img alt="McFunction" src="https://custom-icon-badges.herokuapp.com/badge/?logo=minecraft-logo-17&style=for-the-badge"></a>
+                    <a><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"></a>
+                    <a><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge">
                 </p>
             <h3> 🗄️ Databases and cloud hosting I used (Or going to learn how to use) : </h3>
                 <p>
-                    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-                    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-                    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-                    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-                    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+                    <a><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=for-the-badge"></a>
+                    <a><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge"></a>
+                    <a><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white&style=for-the-badge"></a>
+                    <a><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white&style=for-the-badge"></a>
+                    <a><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white&style=for-the-badge"></a>
                 </p>
             <h3> 💻 Software and tools I used (Or going to learn how to use) : </h3>
             <p>
-                <a href="#"><img alt="Adobe Programs" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+                <a href="#"><img alt="Adobe Programs" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white&style=for-the-badge"></a>
                 <p>
-                    <a href="#"><img alt="Adobe Premiere Pro" src=""></a>
-                    <a href="#"><img alt="Adobe After Effects" src=""></a>
-                    <a href="#"><img alt="Adobe Photoshop" src=""></a>
-                    <a href="#"><img alt="Adobe Animate" src=""></a>
-                    <a href="#"><img alt="Adobe Audition" src=""></a>
-                    <a href="#"><img alt="Adobe Illustrator" src=""></a>
+                    <a><img alt="Adobe Premiere Pro" src=""></a>
+                    <a><img alt="Adobe After Effects" src=""></a>
+                    <a><img alt="Adobe Photoshop" src=""></a>
+                    <a><img alt="Adobe Animate" src=""></a>
+                    <a><img alt="Adobe Audition" src=""></a>
+                    <a><img alt="Adobe Illustrator" src=""></a>
                 </p>
-                <a href="#"><img alt="Google Programs" src=""></a>
+                <a><img alt="Google Programs" src=""></a>
                 <p>
-                    <a href="#"><img alt="Google Docs" src=""></a>
-                    <a href="#"><img alt="Google Sheets" src=""></a>
-                    <a href="#"><img alt="Google Forums" src=""></a>
+                    <a><img alt="Google Docs" src=""></a>
+                    <a><img alt="Google Sheets" src=""></a>
+                    <a><img alt="Google Forums" src=""></a>
                 </p>
-                <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
-                <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-                <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-                <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-                <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-                <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-                <a href="#"><img alt="Intellij Community" src=""></a>
-                <a href="#"><img alt="PyCharm Community" src=""></a>
-                <a href="#"><img alt="Blender" src=""></a>
-                <a href="#"><img alt="Paint.net" src=""></a>
-                <a href="#"><img alt="BlockBranch" src=""></a>
+                <a><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white&style=for-the-badge"></a>
+                <a><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge"></a>
+                <a><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white&style=for-the-badge"></a>
+                <a><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"></a>
+                <a><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a>
+                <a><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge"></a>
+                <a><img alt="Intellij Community" src=""></a>
+                <a><img alt="PyCharm Community" src=""></a>
+                <a><img alt="Blender" src=""></a>
+                <a><img alt="Paint.net" src=""></a>
+                <a><img alt="BlockBranch" src=""></a>
             </p>
         </p>
     <h2> 📺 Latest YouTube videos </h2>
@@ -125,22 +125,21 @@
                                 <img title="🔥 1NickoMan1's Streaks! " alt="1NcikoMan1's streak" src="https://github-readme-streak-stats.herokuapp.com?user=1nickoma1&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
                         </a>
                         <a href="https://github.com/anuraghazra/github-readme-stats">
-                            <img alt="1NickoMan1's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=1nickoman1&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+                            <img alt="🔥 1NickoMan1's Github Stats!" src="https://github-readme-stats.vercel.app/api/?username=1nickoman1&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
                         </a>
                         <a href="https://github.com/anuraghazra/github-readme-stats">
-                            <img alt="1NickoMan1's Most Languages Used?" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nickoman1&langs_count=10&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+                            <img alt="🔥 1NickoMan1's Most Languages Used?" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nickoman1&langs_count=10&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
                         </a>
                     <br/>
-                <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
             </details>
             <details>
                 <summary>⚡ Recent GitHub Activity</summary>
                     <br/>
                     <!--START_SECTION:activity-->
                      <ol>
-                        <li>❗️Setting up environments for [minecraft plugin](https://github.com/NickOman-Corps/NickOman-Ess) in [NickOman Corps](https://github.com/NickOman-Corps) project.</li>
-                        <li>❗️Setting up environments for [minecraft forge mod](https://github.com/NickOman-Corps/NickOman-BlockieForgeMod) in [NickOman Corps](https://github.com/NickOman-Corps) project.</li>
-                        <li>❗️Setting up environments for [minecraft datapack](https://github.com/NickOman-Corps/NickOman-Datapack) in [NickOman Corps](https://github.com/NickOman-Corps) project.</li>
+                        <li>❗️Setting up environments for <a href="https://github.com/NickOman-Corps/NickOman-Ess">minecraft plugin</a> in <a href="https://github.com/NickOman-Corps">NickOman Corps</a> project.</li>
+                        <li>❗️Setting up environments for <a href="https://github.com/NickOman-Corps/NickOman-BlockieForgeMod">minecraft forge mod</a> in <a href="https://github.com/NickOman-Corps">NickOman Corps</a> project.</li>
+                        <li>❗️Setting up environments for <a href="https://github.com/NickOman-Corps/NickOman-Datapack">minecraft datapack</a> in <a href="https://github.com/NickOman-Corps"> NickOman Corps</a> project.</li>
                     </ol>  
                     <!--END_SECTION:activity-->
             </details>
@@ -148,5 +147,3 @@
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="1NickOman1's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1nickoman1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
         </p>
 </div>
-
-
