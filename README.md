@@ -46,13 +46,13 @@
         </ul>
     <h2> 📘 Open source projects : </h2>
     <p align="center">
-        <a href="https://github.com/NickOman-Corps/NickOman-Ess"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=1nickoman1&repo=NickOman-Corps/NickOman-Ess" alt="NickoMane-Ess">
+        <a href="https://github.com/NickOman-Corps/NickOman-Ess"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=NickOman-Corps&repo=NickOman-Ess" alt="NickoMane-Ess">
         </a>
-        <a href="https://github.com/NickOman-Corps/NickOman-BlockieForgeMod"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=1nickoman1&repo=NickOman-Corps/BlockieForgeMod" alt="NickoMane-BlockieForgeMod ">
+        <a href="https://github.com/NickOman-Corps/NickOman-BlockieForgeMod"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=NickOman-Corps&repo=NickOman-BlockieFabricMod" alt="NickoMane-BlockieFabricMod ">
         </a>
-        <a href="https://github.com/NickOman-Corps/NickOman-"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=1nickoman1&repo=NickOman-Corps/BlockieForgeMod" alt="NickoMane-BlockieForgeMod ">
+        <a href="https://github.com/NickOman-Corps/NickOman-"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=NickOman-Corps&repo=NickOman-BlockieForgeMod" alt="NickoMane-BlockieForgeMod ">
         </a>
-        <a href="https://github.com/NickOman-Corps/NickOman-Datapack"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=1nickoman1&repo=NickOman-Corps/Datapack" alt="NickoMane-Datapack ">
+        <a href="https://github.com/NickOman-Corps/NickOman-Datapack"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=NickOman-Corps&repo=NickOman-Datapack" alt="NickoMane-Datapack ">
         </a>
     </p>
     <h2> 🛠️ My favorite tools :  </h2>
@@ -65,10 +65,10 @@
                     <a><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white&style=for-the-badge"></a>
                     <a><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
                     <a><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge"></a>
-                    <a><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&style=for-the-badge"></a>
-                    <a><img alt="Reactapp.js" src="https://custom-icon-badges.herokuapp.com/badge/?logo=react-app-logo&style=for-the-badge"></a>
-                    <a><img alt="Discord.js" src="https://custom-icon-badges.herokuapp.com/badge/?logo=discord.js-logo&style=for-the-badge"></a>
-                    <a><img alt="McFunction" src="https://custom-icon-badges.herokuapp.com/badge/?logo=minecraft-logo-17&style=for-the-badge"></a>
+                    <a><img alt="Node.js" src="https://img.shields.io/badge/-NODE.JS-%23339933?logo=node.js&style=for-the-badge&logoColor=white"></a>
+                    <a><img alt="Reactapp.js" src="https://custom-icon-badges.herokuapp.com/badge/-Reactapp.js-61DAFB?logo=react-cion&logoColor=white&style=for-the-badge"></a>
+                    <a><img alt="Discord.js" src="https://custom-icon-badges.herokuapp.com/badge/-DISCORD.JS-%235865F2?logo=discord.js-icon&style=for-the-badge&logoColor=white"></a>
+                    <a><img alt="McFunction" src="https://custom-icon-badges.herokuapp.com/badge/-MCFUNCTION-%2353AC56?logo=mcfunction-icon&style=for-the-badge"></a>
                     <a><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"></a>
                     <a><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge">
                 </p>
@@ -84,12 +84,12 @@
             <p>
                 <a href="#"><img alt="Adobe Programs" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white&style=for-the-badge"></a>
                 <p>
-                    <a><img alt="Adobe Premiere Pro" src=""></a>
-                    <a><img alt="Adobe After Effects" src=""></a>
-                    <a><img alt="Adobe Photoshop" src=""></a>
-                    <a><img alt="Adobe Animate" src=""></a>
-                    <a><img alt="Adobe Audition" src=""></a>
-                    <a><img alt="Adobe Illustrator" src=""></a>
+                    <a><img alt="Adobe After Effects" src="https://img.shields.io/badge/-Adobe%20After%20Effects-%239999FF?logo=adobeaftereffects&logoColor=white&style=for-the-badge"></a>
+                    <a><img alt="Adobe Animate" src="https://custom-icon-badges.herokuapp.com/badge/-Adobe Animate-00005B?logo=adobe-animate-logo1&logoColor=white&style=for-the-badge"></a>
+                    <a><img alt="Adobe Audition" src="https://img.shields.io/badge/-Adobe%20Audition-%239999FF?logo=adobeaudition&logoColor=white&style=for-the-badge"></a>
+                    <a><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe%20Premiere%20Pro-%239999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge"></a>
+                    <a><img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Audition-%2331A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge"></a>
+                    <a><img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-%23FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge"></a>
                 </p>
                 <a><img alt="Google Programs" src=""></a>
                 <p>
@@ -122,7 +122,7 @@
                 <summary>💻 GitHub Profile Stats</summary>
                     <br/>
                         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-                                <img title="🔥 1NickoMan1's Streaks! " alt="1NcikoMan1's streak" src="https://github-readme-streak-stats.herokuapp.com?user=1nickoman1&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
+                                <img title="🔥 1NickoMan1's Streaks! " alt="1NcikoMan1's streak" src="https://github-readme-streak-stats.herokuapp.com?user=1nickoman1&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="192px"/>
                         </a>
                         <a href="https://github.com/anuraghazra/github-readme-stats">
                             <img alt="🔥 1NickoMan1's Github Stats!" src="https://github-readme-stats.vercel.app/api/?username=1nickoman1&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
